@@ -326,7 +326,7 @@ def main():
         subjects = json.load(f)
 
     # Sử dụng ThreadPoolExecutor để xử lý các link song song
-    max_workers = 3
+    max_workers = 5
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         for subject in subjects:
             subject_name = subject["name"]

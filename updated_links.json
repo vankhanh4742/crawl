@@ -1,45 +1,5 @@
 [
     {
-        "name": "Soạn văn lớp 10 (hay nhất) – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/soan-van-lop-10-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn lớp 10 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/tac-gia-tac-pham-ngu-van-lop-10-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Soạn văn lớp 10 (ngắn nhất) – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/soan-van-lop-10-ngan-nhat-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn lớp 10 - KNTT",
-        "url": "https://vietjack.me/ngu-van-10-kn/tom-tat-tac-pham-ngu-van-lop-10-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn lớp 10 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/bo-cuc-tac-pham-ngu-van-lop-10-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn lớp 10 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/noi-dung-chinh-tac-pham-ngu-van-lop-10-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Văn mẫu lớp 10 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/van-mau-lop-10-kntt",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
-        "name": "Giải Chuyên đề học tập Ngữ văn 10 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-10-kn/giai-chuyen-de-hoc-tap-ngu-van-10-ket-noi-tri-thuc",
-        "folder_save": "Nguvan10/downloads_Nguvan10_KNTT"
-    },
-    {
         "name": "Toán 10",
         "url": "https://vietjack.me/toan-10-kn",
         "folder_save": "Toan10/downloads_Toan10_KNTT"
@@ -310,56 +270,6 @@
         "folder_save": "Hoatdongtrainghiemhuongnghiep10/downloads_Hoatdongtrainghiemhuongnghiep10_KNTT"
     },
     {
-        "name": "Ngữ văn 10",
-        "url": "https://vietjack.me/ngu-van-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Soạn văn lớp 10 (hay nhất) – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/soan-van-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn lớp 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/tac-gia-tac-pham-ngu-van-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Soạn văn lớp 10 (ngắn nhất) – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/soan-van-lop-10-ngan-nhat-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn lớp 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/tom-tat-tac-pham-ngu-van-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Giải sbt Ngữ văn lớp 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/giai-sbt-ngu-van-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn lớp 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/bo-cuc-tac-pham-ngu-van-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn lớp 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/noi-dung-chinh-tac-pham-ngu-van-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Văn mẫu lớp 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/van-mau-lop-10-ctst",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
-        "name": "Giải Chuyên đề học tập Ngữ văn 10 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10-ctst/giai-chuyen-de-hoc-tap-ngu-van-10-chan-troi-sang-tao",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CT"
-    },
-    {
         "name": "Toán 10",
         "url": "https://vietjack.me/toan-10-ctst",
         "folder_save": "Toan10/downloads_Toan10_CT"
@@ -538,56 +448,6 @@
         "name": "Giải Chuyên đề Địa lí 10 – Chân trời sáng tạo",
         "url": "https://vietjack.me/dia-li-10-ctst/giai-chuyen-de-dia-li-10-ctst",
         "folder_save": "Diali10/downloads_Diali10_CT"
-    },
-    {
-        "name": "Ngữ văn 10",
-        "url": "https://vietjack.me/ngu-van-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Soạn văn lớp 10 (hay nhất) – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/soan-van-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn lớp 10 – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/tac-gia-tac-pham-ngu-van-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn lớp 10 – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/tom-tat-tac-pham-ngu-van-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn lớp 10 – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/bo-cuc-tac-pham-ngu-van-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn lớp 10 – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/noi-dung-chinh-tac-pham-ngu-van-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Soạn văn lớp 10 (ngắn nhất) – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/soan-van-lop-10-ngan-nhat-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Giải sbt Ngữ văn lớp 10 – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/giai-sbt-ngu-van-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Văn mẫu lớp 10 – Cánh Diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/van-mau-lop-10-cd",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
-    },
-    {
-        "name": "Giải Chuyên đề học tập Ngữ văn 10 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-10-cd/giai-chuyen-de-hoc-tap-ngu-van-10-canh-dieu",
-        "folder_save": "Nguvan10/downloads_Nguvan10_CD"
     },
     {
         "name": "Toán 10",
@@ -875,21 +735,6 @@
         "folder_save": "Nguvan10/downloads_Nguvan10_Default"
     },
     {
-        "name": "Soạn văn 10 (hay nhất) | Để học tốt Ngữ Văn 10 (sách mới)",
-        "url": "https://vietjack.me/ngu-van-10/soan-van-10-hay-nhat",
-        "folder_save": "Nguvan10/downloads_Nguvan10_Default"
-    },
-    {
-        "name": "Soạn văn 10 (ngắn nhất) | Để học tốt Ngữ văn 10 (sách mới)",
-        "url": "https://vietjack.me/ngu-van-10/soan-van-10-ngan-nhat",
-        "folder_save": "Nguvan10/downloads_Nguvan10_Default"
-    },
-    {
-        "name": "Văn mẫu lớp 10 (cả ba sách) | Kết nối tri thức, Cánh diều, Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-10/van-mau-lop-10",
-        "folder_save": "Nguvan10/downloads_Nguvan10_Default"
-    },
-    {
         "name": "Lịch sử 10",
         "url": "https://vietjack.me/lich-su-10",
         "folder_save": "Lichsu10/downloads_Lichsu10_Default"
@@ -1008,56 +853,6 @@
         "name": "Bộ sách lớp 10 Kết nối tri thức",
         "url": "https://vietjack.me/doc-sach-online-10/bo-sach-lop-10-ket-noi-tri-thuc",
         "folder_save": "Docsachonline10/downloads_Docsachonline10_Default"
-    },
-    {
-        "name": "Ngữ văn 11",
-        "url": "https://vietjack.me/ngu-van-11-kn",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Soạn văn lớp 11 Kết nối tri thức - hay nhất",
-        "url": "https://vietjack.me/ngu-van-11-kn/soan-van-lop-11-ket-noi-tri-thuc-hay-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Văn mẫu lớp 11 - Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/van-mau-lop-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 11 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/tom-tat-tac-pham-ngu-van-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn 11 - Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/tac-gia-tac-pham-ngu-van-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Giải SBT Ngữ văn 11 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/giai-sbt-ngu-van-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn 11 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/bo-cuc-tac-pham-ngu-van-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Giải Chuyên đề học tập Ngữ văn 11 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/giai-chuyen-de-hoc-tap-ngu-van-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn lớp 11 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-11-kn/noi-dung-chinh-tac-pham-ngu-van-lop-11-ket-noi-tri-thuc",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
-    },
-    {
-        "name": "Soạn văn 11 Kết nối tri thức (ngắn nhất)",
-        "url": "https://vietjack.me/ngu-van-11-kn/soan-van-11-ket-noi-tri-thuc-ngan-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_KNTT"
     },
     {
         "name": "Toán 11",
@@ -1315,56 +1110,6 @@
         "folder_save": "Tinhoc11/downloads_Tinhoc11_KNTT"
     },
     {
-        "name": "Ngữ văn 11",
-        "url": "https://vietjack.me/ngu-van-11-cd",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Soạn văn lớp 11 Cánh diều (hay nhất)",
-        "url": "https://vietjack.me/ngu-van-11-cd/soan-van-lop-11-canh-dieu-hay-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Văn mẫu lớp 11 - Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/van-mau-lop-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 11 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/tom-tat-tac-pham-ngu-van-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn 11 - Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/tac-gia-tac-pham-ngu-van-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Giải SBT Ngữ văn 11 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/giai-sbt-ngu-van-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn 11 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/bo-cuc-tac-pham-ngu-van-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Giải Chuyên đề học tập Ngữ văn 11 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/giai-chuyen-de-hoc-tap-ngu-van-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn lớp 11 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-11-cd/noi-dung-chinh-tac-pham-ngu-van-lop-11-canh-dieu",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
-        "name": "Soạn văn 11 Cánh diều (ngắn nhất)",
-        "url": "https://vietjack.me/ngu-van-11-cd/soan-van-11-canh-dieu-ngan-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CD"
-    },
-    {
         "name": "Toán 11",
         "url": "https://vietjack.me/toan-11-cd",
         "folder_save": "Toan11/downloads_Toan11_CD"
@@ -1603,56 +1348,6 @@
         "name": "Giải sbt Tin học 11 – Cánh diều",
         "url": "https://vietjack.me/tin-hoc-11-cd/giai-sbt-tin-hoc-11-canh-dieu",
         "folder_save": "Tinhoc11/downloads_Tinhoc11_CD"
-    },
-    {
-        "name": "Ngữ văn 11",
-        "url": "https://vietjack.me/ngu-van-11-ct",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Soạn văn lớp 11 Chân trời sáng tạo (hay nhất)",
-        "url": "https://vietjack.me/ngu-van-11-ct/soan-van-lop-11-chan-troi-sang-tao-hay-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Văn mẫu lớp 11 - Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/van-mau-lop-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 11 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/tom-tat-tac-pham-ngu-van-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn lớp 11 - Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/tac-gia-tac-pham-ngu-van-lop-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Giải SBT Ngữ văn 11 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/giai-sbt-ngu-van-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn 11 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/bo-cuc-tac-pham-ngu-van-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Giải Chuyên đề học tập Ngữ văn 11 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/giai-chuyen-de-hoc-tap-ngu-van-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn lớp 11 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11-ct/noi-dung-chinh-tac-pham-ngu-van-lop-11-chan-troi-sang-tao",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
-    },
-    {
-        "name": "Soạn văn 11 Chân trời sáng tạo (ngắn nhất)",
-        "url": "https://vietjack.me/ngu-van-11-ct/soan-van-11-chan-troi-sang-tao-ngan-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_CT"
     },
     {
         "name": "Toán 11",
@@ -1940,11 +1635,6 @@
         "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
     },
     {
-        "name": "Giáo án Ngữ văn 11 Kết nối tri thức (mới nhất)",
-        "url": "https://vietjack.me/giao-an-cac-mon-lop-11-ket-noi-tri-thuc/giao-an-ngu-van-11-ket-noi-tri-thuc-moi-nhat",
-        "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
-    },
-    {
         "name": "Giáo án Vật lí 11 Kết nối tri thức (mới nhất)",
         "url": "https://vietjack.me/giao-an-cac-mon-lop-11-ket-noi-tri-thuc/giao-an-vat-li-11-ket-noi-tri-thuc-moi-nhat",
         "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
@@ -2045,11 +1735,6 @@
         "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
     },
     {
-        "name": "Giáo án PPT Ngữ văn 11 Cánh diều",
-        "url": "https://vietjack.me/giao-an-cac-mon-lop-11-canh-dieu/giao-an-ppt-ngu-van-11-canh-dieu",
-        "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
-    },
-    {
         "name": "Giáo án Lịch sử 11 Cánh diều (mới nhất)",
         "url": "https://vietjack.me/giao-an-cac-mon-lop-11-canh-dieu/giao-an-lich-su-11-canh-dieu-moi-nhat",
         "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
@@ -2130,11 +1815,6 @@
         "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
     },
     {
-        "name": "Giáo án PPT Ngữ văn 11 Chân trời sáng tạo",
-        "url": "https://vietjack.me/giao-an-cac-mon-lop-11-chan-troi-sang-tao/giao-an-ppt-ngu-van-11-chan-troi-sang-tao",
-        "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
-    },
-    {
         "name": "Giáo án PPT Hóa 11 Chân trời sáng tạo",
         "url": "https://vietjack.me/giao-an-cac-mon-lop-11-chan-troi-sang-tao/giao-an-ppt-hoa-11-chan-troi-sang-tao",
         "folder_save": "Giaoancacmonlop11/downloads_Giaoancacmonlop11_Default"
@@ -2208,36 +1888,6 @@
         "name": "Giáo án Hóa học lớp 11 mới nhất",
         "url": "https://vietjack.me/hoa-hoc-11/giao-an-hoa-hoc-lop-11-moi-nhat",
         "folder_save": "Hoahoc11/downloads_Hoahoc11_Default"
-    },
-    {
-        "name": "Ngữ văn 11",
-        "url": "https://vietjack.me/ngu-van-11",
-        "folder_save": "Nguvan11/downloads_Nguvan11_Default"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 11 (Sách mới) | Kết nối tri thức, Cánh diều, Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11/tom-tat-tac-pham-ngu-van-11",
-        "folder_save": "Nguvan11/downloads_Nguvan11_Default"
-    },
-    {
-        "name": "Soạn văn 11 (hay nhất) | Để học tốt Ngữ Văn 11 (sách mới)",
-        "url": "https://vietjack.me/ngu-van-11/soan-van-11-hay-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_Default"
-    },
-    {
-        "name": "Soạn văn 11 (ngắn nhất) | Để học tốt Ngữ văn 11 (sách mới)",
-        "url": "https://vietjack.me/ngu-van-11/soan-van-11-ngan-nhat",
-        "folder_save": "Nguvan11/downloads_Nguvan11_Default"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn 11 (Sách mới) | Kết nối tri thức, Cánh diều, Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11/tac-gia-tac-pham-ngu-van-lop-11",
-        "folder_save": "Nguvan11/downloads_Nguvan11_Default"
-    },
-    {
-        "name": "Văn mẫu 11 (Sách mới) | Kết nối tri thức, Cánh diều, Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-11/van-mau-lop-11",
-        "folder_save": "Nguvan11/downloads_Nguvan11_Default"
     },
     {
         "name": "Toán 11",
@@ -2680,41 +2330,6 @@
         "folder_save": "Dethicacmonlop12/downloads_Dethicacmonlop12_Default"
     },
     {
-        "name": "Ngữ văn 12",
-        "url": "https://vietjack.me/ngu-van-12-kn",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
-        "name": "Soạn văn 12 Kết nối tri thức (hay nhất)",
-        "url": "https://vietjack.me/ngu-van-12-kn/soan-van-12-ket-noi-tri-thuc-hay-nhat",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
-        "name": "Văn mẫu 12 - Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-12-kn/van-mau-12-ket-noi-tri-thuc",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 12 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-12-kn/tom-tat-tac-pham-ngu-van-12-ket-noi-tri-thuc",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn 12 - Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-12-kn/tac-gia-tac-pham-ngu-van-12-ket-noi-tri-thuc",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn 12 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-12-kn/bo-cuc-tac-pham-ngu-van-12-ket-noi-tri-thuc",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn 12 – Kết nối tri thức",
-        "url": "https://vietjack.me/ngu-van-12-kn/noi-dung-chinh-tac-pham-ngu-van-12-ket-noi-tri-thuc",
-        "folder_save": "Nguvan12/downloads_Nguvan12_KNTT"
-    },
-    {
         "name": "Toán 12",
         "url": "https://vietjack.me/toan-12-kn",
         "folder_save": "Toan12/downloads_Toan12_KNTT"
@@ -2965,41 +2580,6 @@
         "folder_save": "Hoatdongtrainghiem12/downloads_Hoatdongtrainghiem12_KNTT"
     },
     {
-        "name": "Ngữ văn 12",
-        "url": "https://vietjack.me/ngu-van-12-cd",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
-        "name": "Soạn văn 12 Cánh diều (hay nhất)",
-        "url": "https://vietjack.me/ngu-van-12-cd/soan-van-12-canh-dieu-hay-nhat",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
-        "name": "Văn mẫu 12 - Cánh diều",
-        "url": "https://vietjack.me/ngu-van-12-cd/van-mau-12-canh-dieu",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 12 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-12-cd/tom-tat-tac-pham-ngu-van-12-canh-dieu",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn 12 - Cánh diều",
-        "url": "https://vietjack.me/ngu-van-12-cd/tac-gia-tac-pham-ngu-van-12-canh-dieu",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn 12 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-12-cd/bo-cuc-tac-pham-ngu-van-12-canh-dieu",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn 12 – Cánh diều",
-        "url": "https://vietjack.me/ngu-van-12-cd/noi-dung-chinh-tac-pham-ngu-van-12-canh-dieu",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CD"
-    },
-    {
         "name": "Toán 12",
         "url": "https://vietjack.me/toan-12-cd",
         "folder_save": "Toan12/downloads_Toan12_CD"
@@ -3238,41 +2818,6 @@
         "name": "Giải sgk Hoạt động trải nghiệm 12 – Cánh diều",
         "url": "https://vietjack.me/hoat-dong-trai-nghiem-12-cd/giai-sgk-hoat-dong-trai-nghiem-12-canh-dieu",
         "folder_save": "Hoatdongtrainghiem12/downloads_Hoatdongtrainghiem12_CD"
-    },
-    {
-        "name": "Ngữ văn 12",
-        "url": "https://vietjack.me/ngu-van-12-ct",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
-    },
-    {
-        "name": "Soạn văn 12 Chân trời sáng tạo (hay nhất)",
-        "url": "https://vietjack.me/ngu-van-12-ct/soan-van-12-chan-troi-sang-tao-hay-nhat",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
-    },
-    {
-        "name": "Văn mẫu 12 - Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-12-ct/van-mau-12-chan-troi-sang-tao",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
-    },
-    {
-        "name": "Tóm tắt tác phẩm Ngữ văn 12 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-12-ct/tom-tat-tac-pham-ngu-van-12-chan-troi-sang-tao",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
-    },
-    {
-        "name": "Tác giả tác phẩm Ngữ văn 12 - Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-12-ct/tac-gia-tac-pham-ngu-van-12-chan-troi-sang-tao",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
-    },
-    {
-        "name": "Bố cục tác phẩm Ngữ văn 12 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-12-ct/bo-cuc-tac-pham-ngu-van-12-chan-troi-sang-tao",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
-    },
-    {
-        "name": "Nội dung chính tác phẩm Ngữ văn 12 – Chân trời sáng tạo",
-        "url": "https://vietjack.me/ngu-van-12-ct/noi-dung-chinh-tac-pham-ngu-van-12-chan-troi-sang-tao",
-        "folder_save": "Nguvan12/downloads_Nguvan12_CT"
     },
     {
         "name": "Toán 12",
