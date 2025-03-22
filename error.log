@@ -3797,3 +3797,2307 @@ Traceback (most recent call last):
     raise TimeoutException(message, screen, stacktrace)
 selenium.common.exceptions.TimeoutException: Message: 
 
+2025-03-21 16:00:19,254 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:00:27,197 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:00:27,663 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:00:55,734 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:01:06,057 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:01:28,745 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:01:42,623 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:02:31,207 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:02:31,330 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:03:39,225 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:04:19,098 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-21 16:04:52,501 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:18:35,164 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:18:35,263 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:20:11,116 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:21:11,341 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:21:28,010 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:22:20,131 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-toan-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:22:34,582 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:22:36,512 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-toan-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:22:54,608 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:23:31,703 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10/giai-sgk-toan-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1-toan10.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:23:47,130 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:24:31,976 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:25:13,528 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:25:57,681 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-10-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:26:36,967 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:27:19,986 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:27:57,637 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-huong-nghiep-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:28:21,134 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-huong-nghiep-10/giai-sbt-hoat-dong-trai-nghiem-10-kntt: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:28:39,099 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:29:35,082 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:30:21,724 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:31:12,134 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:31:58,745 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:32:39,721 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:33:22,760 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-10-ctst: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:34:13,166 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:35:05,077 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:35:59,231 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:36:15,335 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-toan-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:36:33,085 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-tieng-anh-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:36:49,353 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-van-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:37:03,888 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-hoa-hoc-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:37:17,970 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-vat-li-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:37:33,337 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-sinh-hoc-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:37:48,868 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-lich-su-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:38:05,669 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-dia-li-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:38:21,088 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-cong-nghe-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:38:35,755 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-kinh-te-phap-luat-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:38:52,456 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-ket-noi-tri-thuc/de-thi-tin-hoc-10-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:39:08,129 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:39:23,885 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-toan-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:39:40,148 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-tieng-anh-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:39:55,491 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-van-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:40:10,463 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-hoa-hoc-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:40:24,741 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-vat-li-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:40:39,146 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-sinh-hoc-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:40:55,239 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-lich-su-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:41:13,546 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-dia-li-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:41:28,591 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-chan-troi-sang-tao/de-thi-kinh-te-phap-luat-10-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:41:43,701 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:41:58,123 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-toan-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:42:13,638 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-tieng-anh-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:42:29,728 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-van-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:42:48,350 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-hoa-hoc-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:43:07,107 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-vat-li-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:43:21,336 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-sinh-hoc-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:43:36,647 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-lich-su-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:43:51,644 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-dia-li-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:44:10,435 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-cong-nghe-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:44:25,230 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-kinh-te-phap-luat-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:44:40,183 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/de-thi-tin-hoc-10-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:44:54,931 ERROR: Lỗi khi chờ link của subject https://vietjack.me/bo-sach-canh-dieu/top-100-de-thi-tieng-anh-10-ca-nam-ilearn-smart-world-nam-2023-2024-co: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:45:09,594 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:45:24,955 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-10/giai-sgk-hoa-hoc-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:45:59,894 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:46:13,954 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-10/giai-sgk-vat-li-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:46:33,116 ERROR: Lỗi khi chờ link của subject https://vietjack.me/ngu-van-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:46:54,360 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:47:09,285 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-10/giai-sgk-lich-su-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:47:27,082 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:47:40,760 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-10/bai-tap-tieng-anh-10-co-dap-an: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:48:08,561 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:48:21,382 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-10/giai-sgk-sinh-hoc-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:48:38,287 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:48:55,568 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-10/giai-sgk-toan-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:49:12,195 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-cong-dan-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:49:28,248 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:49:48,334 ERROR: Lỗi khi chờ link của subject https://vietjack.me/doc-sach-online-10: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:50:13,679 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:50:39,433 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:51:11,075 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:51:38,423 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11-kn/chuyen-de-day-them-vat-li-11-ca-3-sach-2024-co-dap-an: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:51:54,838 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:52:29,534 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:52:55,166 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:53:22,045 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:53:49,099 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:54:18,395 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:54:39,918 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-11-kn/giai-sbt-cong-nghe-11-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:54:52,216 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-11-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:55:19,843 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:55:48,757 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:56:12,448 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:56:42,052 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:57:09,396 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:57:34,991 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:58:04,976 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:58:35,792 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:59:05,314 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:59:29,856 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-11-cd/giai-sbt-cong-nghe-11-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 03:59:42,857 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-11-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:00:14,796 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:00:58,694 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:01:42,144 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:02:21,749 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:03:03,227 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:03:44,773 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:04:30,522 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:05:09,995 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-11-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:05:54,363 ERROR: Lỗi khi chờ link của subject https://vietjack.me/doc-sach-online-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:06:34,477 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-tieng-anh-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:06:50,699 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-hoa-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:07:06,774 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-lich-su-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:07:21,531 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-toan-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:07:36,437 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-vat-li-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:07:55,276 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-dia-li-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:08:13,691 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-van-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:08:31,605 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-11/de-thi-sinh-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:08:45,334 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:09:24,335 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-ket-noi-tri-thuc/giao-an-ppt-vat-li-11-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:09:46,268 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-ket-noi-tri-thuc/giao-an-tieng-anh-11-global-success-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:10:40,308 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-ket-noi-tri-thuc/giao-an-ppt-kinh-te-phap-luat-11-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:10:54,297 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:12:13,589 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-canh-dieu/giao-an-ppt-sinh-hoc-11-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:12:50,357 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-canh-dieu/giao-an-ppt-kinh-te-phap-luat-11-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:13:04,934 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:14:50,288 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-11-chan-troi-sang-tao/giao-an-ppt-kinh-te-phap-luat-11-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:15:05,985 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:15:23,142 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11/giai-sgk-hoa-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:15:37,715 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11/ly-thuyet-hoa-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:15:52,689 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-11/giai-sbt-hoa-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:16:22,316 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:16:38,226 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-11/giai-sgk-toan-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:17:10,255 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-11/giao-an-toan-lop-11-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:17:39,447 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:18:06,928 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-11/giai-sgk-tieng-anh-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:18:22,050 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-11/giai-sbt-tieng-anh-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:18:39,783 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:18:53,547 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-11/giai-sgk-lich-su-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:19:11,233 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-11/ly-thuyet-lich-su-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:19:30,276 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:19:44,314 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11/giai-sgk-vat-li-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:20:10,632 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-11/giai-sbt-vat-li-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:20:38,067 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:20:53,234 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-11/giai-sgk-sinh-hoc-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:21:12,425 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-cong-dan-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:21:44,225 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:22:09,111 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-11: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:22:32,766 ERROR: Lỗi khi chờ link của subject https://vietjack.me/doc-sach-online-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:23:42,500 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:24:36,737 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-12-ket-noi-tri-thuc/top-100-de-thi-cong-nghe-12-ket-noi-tri-thuc-nam-2024-2025-co-dap-an: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:25:00,477 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:25:17,973 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-12-canh-dieu/top-100-de-thi-cong-nghe-12-canh-dieu-nam-2024-2025-co-dap-an: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:26:32,353 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:27:27,102 ERROR: Lỗi khi chờ link của subject https://vietjack.me/de-thi-cac-mon-lop-12-chan-troi-sang-tao/top-100-de-thi-cong-nghe-12-chan-troi-sang-tao-nam-2024-2025-co-dap-an: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:28:35,430 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:29:16,845 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:30:08,298 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:30:44,923 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:31:30,496 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:31:50,016 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-kn/giai-chuyen-de-hoc-tap-sinh-hoc-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:32:08,849 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-kn/giai-sbt-sinh-hoc-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:32:22,781 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:32:53,094 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12-kn/giai-sbt-lich-su-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:33:06,798 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:33:32,639 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12-kn/giai-sbt-dia-li-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:33:49,308 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:34:16,279 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-kn/giai-sbt-tin-hoc-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:34:39,656 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:35:00,449 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:35:27,118 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-12-kn/giai-sbt-kinh-te-phap-luat-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:35:41,809 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:36:02,061 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-12-kn: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:36:20,229 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-12-kn/giai-sgk-hoat-dong-trai-nghiem-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:36:36,028 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:37:10,307 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:37:47,218 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:38:27,154 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:39:10,671 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:39:30,118 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-cd/giai-chuyen-de-hoc-tap-sinh-hoc-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:39:51,401 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-cd/giai-sbt-sinh-hoc-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:40:05,221 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:40:31,165 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12-cd/giai-sbt-lich-su-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:40:44,974 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:41:00,865 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12-cd/giai-sgk-dia-li-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:41:27,873 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:42:04,444 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-cd/giai-sbt-tin-hoc-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:42:26,917 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:42:46,056 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:43:18,535 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:43:36,687 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-12-cd: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:43:51,652 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-12-cd/giai-sgk-hoat-dong-trai-nghiem-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:44:05,601 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:44:46,531 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:45:29,734 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:46:07,617 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:46:45,278 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:47:06,541 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-ct/giai-chuyen-de-hoc-tap-sinh-hoc-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:47:28,933 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12-ct/giai-sbt-sinh-hoc-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:47:43,657 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:48:11,393 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12-ct/giai-sbt-lich-su-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:48:28,528 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:48:54,414 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12-ct/giai-sbt-dia-li-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:49:08,113 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:49:27,363 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-ct/giai-chuyen-de-hoc-tap-tin-hoc-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:49:41,139 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12-ct/giai-sbt-tin-hoc-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:50:01,399 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:50:14,877 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-12-ct/giai-sgk-cong-nghe-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:50:28,206 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:50:58,407 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-kinh-te-va-phap-luat-12-ct/giai-sbt-kinh-te-phap-luat-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:51:16,092 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:51:30,817 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-12-ct/giai-sgk-giao-duc-quoc-phong-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:51:44,510 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-12-ct: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:51:59,165 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoat-dong-trai-nghiem-12-ct/giai-sgk-hoat-dong-trai-nghiem-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:52:14,258 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-ket-noi-tri-thuc: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:52:55,712 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-ket-noi-tri-thuc/giao-an-dia-li-12-ket-noi-tri-thuc-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:53:10,251 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-ket-noi-tri-thuc/giao-an-lich-su-12-ket-noi-tri-thuc-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:53:25,825 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-canh-dieu: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:53:52,011 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-canh-dieu/giao-an-vat-li-12-canh-dieu-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:54:18,014 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-canh-dieu/giao-an-dia-li-12-canh-dieu-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:54:32,890 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-canh-dieu/giao-an-lich-su-12-canh-dieu-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:54:50,322 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-chan-troi-sang-tao: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:55:35,523 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-chan-troi-sang-tao/giao-an-dia-li-12-chan-troi-sang-tao-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:55:51,781 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-an-cac-mon-lop-12-chan-troi-sang-tao/giao-an-lich-su-12-chan-troi-sang-tao-moi-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:56:10,301 ERROR: Lỗi khi chờ link của subject https://vietjack.me/ngu-van-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:57:05,725 ERROR: Lỗi khi chờ link của subject https://vietjack.me/ngu-van-12/soan-van-12-hay-nhat: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:57:20,976 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:57:50,640 ERROR: Lỗi khi chờ link của subject https://vietjack.me/toan-12/giai-sgk-toan-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:58:30,753 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tieng-anh-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:58:45,166 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:59:26,446 ERROR: Lỗi khi chờ link của subject https://vietjack.me/vat-li-12/giai-sgk-vat-li-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 04:59:47,482 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:00:25,983 ERROR: Lỗi khi chờ link của subject https://vietjack.me/hoa-hoc-12/giai-sgk-hoa-hoc-12-1: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:00:50,109 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:01:15,230 ERROR: Lỗi khi chờ link của subject https://vietjack.me/sinh-hoc-12/giai-sgk-sinh-hoc-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:01:31,299 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:01:56,741 ERROR: Lỗi khi chờ link của subject https://vietjack.me/dia-li-12/giai-sgk-dia-li-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:02:11,522 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:02:30,914 ERROR: Lỗi khi chờ link của subject https://vietjack.me/lich-su-12/giai-sgk-lich-su-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:02:52,150 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-cong-dan-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:03:19,192 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-lop-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:03:33,796 ERROR: Lỗi khi chờ link của subject https://vietjack.me/giao-duc-quoc-phong-an-ninh-lop-12/giai-sgk-giao-duc-quoc-phong-an-ninh-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:03:53,523 ERROR: Lỗi khi chờ link của subject https://vietjack.me/tin-hoc-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-22 05:04:14,221 ERROR: Lỗi khi chờ link của subject https://vietjack.me/cong-nghe-12: Message: 
+Traceback (most recent call last):
+  File "/workspaces/crawl/main1.py", line 350, in main
+    links = WebDriverWait(driver, 10).until(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
